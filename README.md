@@ -45,10 +45,16 @@
 
 ## 📱 Screenshots
 
+## 📱 Screenshots
+
 <p align="center">
-  <img src="output/home.jpeg" width="200" height="400"/>
-  <img src="output/output.png" width="220" height="400"/>
-  <img src="output/history.jpeg" width="200" height="400"/>
+  <img src="output/home.jpeg" width="220" height="200"/>
+  <img src="output/output.png" width="200" height="300"/>
+  <img src="output/history.jpeg" width="220" height="200"/>
+</p>
+
+<p align="center">
+  <sub><b>Home:</b> Enter symptoms | <b>Result:</b> Disease prediction with voice output | <b>History:</b> Past records</sub>
 </p>
 ---
 
