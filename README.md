@@ -47,10 +47,14 @@
 
 ## 📱 Screenshots
 
+## 📱 Screenshots
+
 <p align="center">
-  <img src="output/home.jpeg" width="220" height="300"/>
-  <img src="output/output.png" width="200" height="300"/>
-  <img src="output/history.jpeg" width="220" height="300"/>
+  <img src="output/home.jpeg" width="200" height="400"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="output/output.png" width="220" height="400"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="output/history.jpeg" width="200" height="400"/>
 </p>
 
 <p align="center">
