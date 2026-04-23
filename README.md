@@ -46,11 +46,10 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="output/home.jpeg" height="350"/>
-  <img src="output/output.png" height="350"/>
-  <img src="output/history.jpeg" height="350"/>
+  <img src="output/home.jpeg" width="220" height="400"/>
+  <img src="output/output.png" width="220" height="400"/>
+  <img src="output/history.jpeg" width="220" height="400"/>
 </p>
-
 ---
 
 ## ▶️ Run the Project
