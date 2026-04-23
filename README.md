@@ -46,11 +46,11 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/home.png" width="200"/>
+  <img src="output/home.jpeg" width="200"/>
   &nbsp;&nbsp;
-  <img src="assets/result.png" width="200"/>
+  <img src="output/result.jpeg" width="200"/>
   &nbsp;&nbsp;
-  <img src="assets/history.png" width="200"/>
+  <img src="output/history.jpeg" width="200"/>
 </p>
 
 ---
