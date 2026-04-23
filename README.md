@@ -46,11 +46,9 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="output/home.jpeg" width="200"/>
-  &nbsp;&nbsp;
-  <img src="output/output.png" width="200"/>
-  &nbsp;&nbsp;
-  <img src="output/history.jpeg" width="200"/>
+  <img src="output/home.jpeg" height="350"/>
+  <img src="output/output.png" height="350"/>
+  <img src="output/history.jpeg" height="350"/>
 </p>
 
 ---
