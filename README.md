@@ -53,9 +53,6 @@
   <img src="output/history.jpeg" width="200" height="300"/>
 </p>
 
-<p align="center">
-  <sub><b>Home:</b> Enter symptoms | <b>Result:</b> Disease prediction with voice output | <b>History:</b> Past records</sub>
-</p>
 ---
 
 ## ▶️ Run the Project
