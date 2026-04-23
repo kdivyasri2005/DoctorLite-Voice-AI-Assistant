@@ -43,18 +43,14 @@
 
 ---
 
-## 📱 Screenshots
-
-## 📱 Screenshots
-
-## 📱 Screenshots
+## 📱 Outputs
 
 <p align="center">
-  <img src="output/home.jpeg" width="200" height="400"/>
+  <img src="output/home.jpeg" width="200" height="300"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="output/output.png" width="220" height="400"/>
+  <img src="output/output.png" width="220" height="300"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="output/history.jpeg" width="200" height="400"/>
+  <img src="output/history.jpeg" width="200" height="300"/>
 </p>
 
 <p align="center">
